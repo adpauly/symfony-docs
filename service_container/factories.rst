@@ -85,7 +85,7 @@ configure the service container to use the
 
 If your factory is not using a static function to configure and create your
 service, but a regular method, you can instantiate the factory itself as a
-service too. Later, in the ":ref:`factories-passing-arguments-factory-method`"
+service too. Later, in the ":ref:`passing-arguments-to-the-factory-method`"
 section, you learn how you can inject arguments in this method.
 
 Configuration of the service container then looks like this:
